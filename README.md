@@ -1,3 +1,47 @@
+<h1 align="Center">iNotebook</h1>
+
+## About
+The simple way to keep notes.
+All your notes, synced on all your devices. iNotebook now for iOS, Android, Mac, Windows, Linux, or in your browser.
+
+>_It is the Web-application used to keep your notes._
+
+## Feature 
+This application has a feature of `Login`, `Sign Up`, `Add Note`, `Delete`, and `Edit` the notes.
+One can see notes which was created by themself only, you can't see the other's note. And the Super Admin can see all the notes and users data in `MongoDB Compass`.
+
+## Built With 
+|Bootstrap |React JS |MongoDB |Express JS |Node JS |
+|--- |--- |--- |--- |--- |
+
+## Dependencies Installed
+```
+npm i nodemon
+npm install react-router-dom
+npm i concurrently
+```
+
+## Preview
+<p align="Center">
+  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-1.png" width="400">
+  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-2.png" width="400">
+  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-3.png" width="400">
+  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-4.png" width="400">
+</p>
+
+## How to run application:
+To start the Project in localhost, you just have to clone this repository and run the below 👇 command in terminal:
+```
+npm run both
+```
+The above command will help you to start the react develoment server and also to start the backend server.
+
+---
+
+<p align='center'>Hope you like this Application :-)</p>
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

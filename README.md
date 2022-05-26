@@ -7,8 +7,8 @@ All your notes, synced on all your devices. iNotebook now for iOS, Android, Mac,
 >_It is the Web-application used to keep your notes._
 
 ## Feature 
-This application has a feature of `Login`, `Sign Up`, `Add Note`, `Delete`, and `Edit` the notes.
-One can see notes which was created by themself only, you can't see the other's note. And the Super Admin can see all the notes and users data in `MongoDB Compass`.
+This application has a feature to `Login`, `Sign Up`, `Add Note`, `Delete`, and `Edit` the notes. One can see notes which were created by themselves only, you can't see the other's note. And the Super Admin can see all the notes and users data in `MongoDB Compass`.
+
 
 ## Built With 
 |Bootstrap |React JS |MongoDB |Express JS |Node JS |

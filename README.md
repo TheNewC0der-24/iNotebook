@@ -34,7 +34,7 @@ To start the Project in localhost, you just have to clone this repository and ru
 ```
 npm run both
 ```
-The above command will help you to start the react develoment server and also to start the backend server.
+The above command will help you to start the react development server and also to start the backend server.
 
 ---
 
